@@ -11,3 +11,7 @@ Unit arrived from Canada, made in West Germany in the late 1980s. Unit checked-o
 ### Repair
 
 Quite a complicated affair, including sourcing the part. Farnell has them, but need to find the exact match.
+
+![panel](/repair/back-panel.jpg)
+
+TBC
