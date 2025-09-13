@@ -14,4 +14,9 @@ Quite a complicated affair, including sourcing the part. Farnell has them, but n
 
 ![panel](/repair/back-panel.jpg)
 
-TBC
+_Parts_
+
+* 0.47uF 250V, lead-spacing of 25.4mm (E)
+    - PMR209ME6470M220R30 (220-ohm for increased resistance to breakdown)
+* 0.22uF 250V, lead-spacing of 20.3mm (C)
+    - PMR209MC6220M220R30 (matching resistance value)
